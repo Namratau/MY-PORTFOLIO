@@ -1,2 +1,16 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+    <head"><title>MY INFO </title>
+ </head>
+ <body bgcolor="orange" text="green">
+     <button onclick="runcode()">HELLO</button>
+     <marquee><h1><b><i><u>MY PROFILE</u></i></b></h1></marquee>
+    <h3><center> <caption>NAMRATA ATMARAM UTEKAR</caption></center></h3>
+    
+     <p> I AM PERSUING BTECH.CURRENTLY STUDING IN SECOND YEAR.
+        Instagram link:https://instagram.com/namrata.utekar?utm_medium=copy_link
+         </p>
+    <img src= https://thumbs.dreamstime.com/z/coder-icon-programming-languages-web-development-tre-trendy-flat-style-isolated-blue-background-152104143.jpg
+    alt="icon"width="450" height="200">
+</body>
+ </html>
