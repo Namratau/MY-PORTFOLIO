@@ -1,0 +1,2 @@
+module Aplette_Buttons {
+}
